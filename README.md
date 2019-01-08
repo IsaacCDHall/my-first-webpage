@@ -1,6 +1,6 @@
 # _My first Webpage_
 
-#### _This is my first webpage's application, as instructed by Epicodus, {Date of current version}_
+#### _This is my first webpage's application, as instructed by Epicodus, 1/8/19_
 
 #### By _**Isaac, Nathan, Slater**_
 
